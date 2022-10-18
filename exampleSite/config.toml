@@ -27,7 +27,7 @@ name = "Contact me"
 url = "contact/"
 weight = 5
 [languages.pt-br]
-languageName = ":german:"
+languageName = ":deutsch:"
 title = "Sofoklis Karelis"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
