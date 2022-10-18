@@ -12,12 +12,12 @@ fields:
   name: date
   label: date
   config:
-    date_format: MM/DD/YYYY
-    time_format: 'h:mm '
+    date_format: ''
+    time_format: ''
     required: true
-    display_utc: true
-    export_format: MM/DD/YYYY
-  default: 10/18/2022 9:39
+    display_utc: false
+    export_format: ''
+  default: '2022-10-18T21:00:00+00:00'
 - type: text
   name: description
   label: description
