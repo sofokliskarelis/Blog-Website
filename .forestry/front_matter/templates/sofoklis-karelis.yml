@@ -14,8 +14,10 @@ fields:
   config:
     date_format: MM/DD/YYYY
     time_format: 'h:mm '
-    required: false
-  default: '2022-10-18T21:23:37+00:00'
+    required: true
+    display_utc: true
+    export_format: MM/DD/YYYY
+  default: 10/18/2022 9:39
 - type: text
   name: description
   label: description
