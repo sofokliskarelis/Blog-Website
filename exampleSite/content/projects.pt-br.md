@@ -1,6 +1,7 @@
 +++
-title = "Projetos"
+draft = true
 slug = "projects"
-+++
+title = "Projetos"
 
++++
 Nada para ver aqui.. Circulando!
