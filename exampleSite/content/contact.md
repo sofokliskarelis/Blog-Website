@@ -1,6 +1,6 @@
 +++
-title = "Contact"
 slug = "contact"
-+++
+title = "Contact"
 
-Follow me, @johndoe.
++++
+Follow me, sofokliskarelis.dev@pm.me
