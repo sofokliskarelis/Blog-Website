@@ -27,8 +27,8 @@ name = "Contact me"
 url = "contact/"
 weight = 5
 [languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+languageName = ":german:"
+title = "Sofoklis Karelis"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
 url = "about/"
@@ -46,10 +46,10 @@ name = "Contato"
 url = "contact/"
 weight = 5
 [languages.pt-br.params]
-author = "João Ninguém"
-description = "Sítio pessoal de João Ninguém"
+author = "Sofoklis Karelis"
+description = "BSc-INFORMATIK"
 info = "Full Stack DevOps e Mágico"
-keywords = "blog,desenvolvedor,pessoal"
+keywords = "blogger,CyberSec trainee"
 [params]
 author = "SofoklisKarelis"
 avatarURL = "images/avatar.jpg"
