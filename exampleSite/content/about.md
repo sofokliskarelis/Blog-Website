@@ -1,25 +1,15 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
+date = 2019-02-28T00:00:00Z
+description = "Hugo, the world's fastest framework for building websites"
+title = "About"
+
 +++
+Hello to everyone I am currently enrolled in a Bsc Computer Science program and I am looking to become a cyber security engineer. I have always been interested in computers and technology, and I believe that this field will allow me to use my skills to protect people and businesses from online threats. I am passionate about keeping people safe online, and I believe that becoming a cyber security engineer will allow me to make a difference in the world.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+There is no one specific path to becoming a cyber security engineer, but studying to build strong foundations in computer science and engineering is a great place to start. With a solid understanding of how systems work and how to protect them from threats, you will be well-positioned to enter this growing field.Additionally, keeping up with the latest news and developments in cyber security will help you stay ahead of the curve.
 
-Hugo makes use of a variety of open source projects including:
+In my free time i love hiking with my friends and of course when the weather is rainy or too cold i spend my time training for my career on TryHackMe by doing CTF's or by going through their lessons expanding my knowledge.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+![](/uploads/thm-qhxj0dddpe.png)[_core-java.pdf](/uploads/_core-java.pdf "_core-java.pdf")
