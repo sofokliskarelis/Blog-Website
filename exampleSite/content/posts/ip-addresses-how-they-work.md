@@ -1,6 +1,6 @@
 +++
 author = "Sofoklis Karelis"
-date = "10/16/2022"
+date = 2022-10-18T21:00:00Z
 description = "IP stands for Internet Protocol. It is the primary protocol that handles communication on the internet."
 tags = ["IP"]
 title = "IP Addresses: How They Work"
