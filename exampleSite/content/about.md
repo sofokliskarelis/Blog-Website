@@ -12,4 +12,6 @@ There is no one specific path to becoming a cyber security engineer, but studyin
 
 In my free time i love hiking with my friends and of course when the weather is rainy or too cold i spend my time training for my career on TryHackMe by doing CTF's or by going through their lessons expanding my knowledge.
 
+My Certifications:
+
 ![](/uploads/thm-qhxj0dddpe.png)[_core-java.pdf](/uploads/_core-java.pdf "_core-java.pdf")
