@@ -7,7 +7,6 @@ sections:
 - type: document
   path: exampleSite/config.toml
   label: Configuration
-  match: "**/*"
 - type: directory
   path: exampleSite/content/posts
   label: Posts
