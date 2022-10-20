@@ -1,6 +1,6 @@
 +++
 author = "Sofoklis Karelis"
-date = 2022-10-20T21:00:00Z
+date = 2022-10-19T21:00:00Z
 description = "ARPANET project in the late 1960s,"
 tags = ["WWW", "Internet"]
 title = "The Evolution of the Internet: From AR"
