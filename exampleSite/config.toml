@@ -42,7 +42,7 @@ name = "Projekte"
 url = "projects/"
 weight = 3
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "Kontakt"
 url = "contact/"
 weight = 5
 [languages.pt-br.params]
