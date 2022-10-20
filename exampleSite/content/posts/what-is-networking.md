@@ -1,6 +1,6 @@
 +++
 author = "Sofoklis Karelis"
-date = 2022-10-20T21:00:00Z
+date = 2022-10-19T21:00:00Z
 description = "Networks are a key part of our lives, both personal and professional. They provide us with the ability to connect with others and share information. But what exactly is a network?"
 tags = ["Networking"]
 title = "What is Networking?"
