@@ -26,4 +26,5 @@ fields:
   label: tags
 pages:
 - exampleSite/content/posts/ip-addresses-how-they-work.md
+- exampleSite/content/posts/the-evolution-of-the-internet-from-ar.md
 - exampleSite/content/posts/what-is-networking.md
