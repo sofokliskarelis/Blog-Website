@@ -30,7 +30,7 @@ weight = 5
 languageName = ":de:"
 title = "Sofoklis Karelis"
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "Ungefähr"
 url = "about/"
 weight = 1
 [[languages.pt-br.menu.main]]
