@@ -1,7 +1,6 @@
 +++
-draft = true
-slug = "projects"
-title = "Projetos"
+slug = "projekte"
+title = "Projekte"
 
 +++
 Nada para ver aqui.. Circulando!
