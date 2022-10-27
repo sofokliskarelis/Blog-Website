@@ -14,4 +14,4 @@ In my free time, I love hiking with my friends. Of course, when the weather is r
 
 My Certifications:
 
-![](/uploads/thm-qhxj0dddpe.png)[_core-java.pdf](/uploads/_core-java.pdf "_core-java.pdf")
+![](/uploads/thm-qhxj0dddpe.png)![](/uploads/thm-rwhcfninfa.png)
