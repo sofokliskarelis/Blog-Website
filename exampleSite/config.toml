@@ -52,7 +52,7 @@ info = "BSc-Informatik student"
 keywords = "blogger,CyberSec trainee"
 [params]
 author = "SofoklisKarelis"
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.png"
 colorScheme = "auto"
 commit = "https://github.com/sofokliskarelis"
 customCSS = []
