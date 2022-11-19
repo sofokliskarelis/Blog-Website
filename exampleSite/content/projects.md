@@ -15,4 +15,4 @@ DISCLAIMER:**PortScanner created by Sofoklis Karelis. is developed with the inte
 
 If you need help send me an email at [**sofokliskarelis.dev@pm.me**](mailto:sofokliskarelis.dev@pm.me)
 
-**}**
+**};**
