@@ -11,7 +11,7 @@ PortScanner is written in Python and makes use of the socket library. The code i
 
 To use PortScanner, simply specify the hostname or IP address of the target system and the ports that you wish to scan. PortScanner will then attempt to connect to each port on the target system in turn and report whether it was successful or not.
 
-DISCLAIMER:**PortScanner created by Sofoklis Karelis. is developed with the intension of using this tool only for educational purpose.**
+DISCLAIMER: **PortScanner created by Sofoklis Karelis. is developed with the intension of using this tool only for educational purpose.**
 
 If you need help send me an email at [**sofokliskarelis.dev@pm.me**](mailto:sofokliskarelis.dev@pm.me)
 
