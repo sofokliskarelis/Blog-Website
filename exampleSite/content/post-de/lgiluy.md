@@ -1,5 +1,4 @@
 +++
-draft = true
 slug = ""
 title = "lgiluy"
 
