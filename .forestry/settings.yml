@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/post-de
-  label: post-de
+  path: exampleSite/content/pt-br/post-de
+  label: deutsch-posts
   create: all
   match: "**/*"
 - type: document
