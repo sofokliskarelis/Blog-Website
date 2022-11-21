@@ -17,3 +17,5 @@ fields:
 - type: text
   name: title
   label: title
+pages:
+- exampleSite/content/posts/the-benefits-of-creating-custom-penetration-testing-tools.md
