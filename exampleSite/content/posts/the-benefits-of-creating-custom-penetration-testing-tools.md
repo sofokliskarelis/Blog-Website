@@ -1,7 +1,7 @@
 +++
 aliases = []
 author = "Sofoklis Karelis"
-date = 2022-11-21T22:00:00Z
+date = 2022-11-22T22:00:00Z
 description = ""
 title = "The Benefits of Creating Custom Penetration Testing Tools"
 
