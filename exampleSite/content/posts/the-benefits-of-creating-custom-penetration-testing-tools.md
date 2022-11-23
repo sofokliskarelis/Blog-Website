@@ -6,8 +6,7 @@ description = ""
 title = "The Benefits of Creating Custom Penetration Testing Tools"
 
 +++
-
- ![](/uploads/pakata-goh-ejmtkcz00i0-unsplash.jpg)
+       ![](/uploads/pakata-goh-ejmtkcz00i0-unsplash.jpg)
 
 As a professional penetration tester, it is important to create your own tools for several reasons. First, by creating your own tools, you can be sure that they are up to date and meet your specific needs. Second, using custom-made tools allows you to automate tasks and processes that would otherwise be time-consuming and repetitive. Finally, creating your own tools gives you a competitive edge over other testers who rely solely on commercial off-the-shelf (COTS) products.
 
